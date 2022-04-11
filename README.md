@@ -1,2 +1,2 @@
 # simpleCV
-# https://slawkir.github.io/simpleCV/
+## https://slawkir.github.io/simpleCV/
