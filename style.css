@@ -13,3 +13,22 @@ body{
     font-weight: bold;
     color: #86898F;
 }
+
+.card{
+    margin-bottom: 15px;
+    /* border: lightseagreen solid 2px; */
+    border-radius: 20px;
+}
+
+.bg-yellow{
+    background: #fff9dc;
+}
+.bg-red{
+    background: #ffe5e5;
+}
+.bg-green{
+    background: #e5ff57;
+}
+.bg-lightblue{
+    background: #cfeaee;
+}
