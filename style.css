@@ -105,3 +105,26 @@ a:visited {
 .btn:visited {
     color: blue;
 }
+
+
+.list {
+    padding: 0 20px;
+}
+
+.list li {
+    color: #86898F;
+    margin-bottom: 10px;
+}
+
+.table {
+    width: 100%;
+}
+
+.table td {
+    padding-bottom: 10px;
+}
+
+.table td:nth-child(2),
+.table td:nth-child(3) {
+    color: #86898F;
+}
