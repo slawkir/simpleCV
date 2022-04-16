@@ -65,3 +65,43 @@ body {
     width: 200px;
 
 }
+
+a {
+    color: #000;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:active {
+    color: blue;
+}
+
+a:visited {
+    color: gray;
+}
+
+.btn {
+    background: #111;
+    color: #fff;
+    padding: 15px 20px;
+    border: none;
+    border-radius: 5px;
+    font-size: 20px;
+}
+
+.btn:active {
+    color: red;
+}
+
+.btn:hover {
+    opacity: .7;
+    cursor: pointer;
+    color: orange;
+}
+
+.btn:visited {
+    color: blue;
+}
